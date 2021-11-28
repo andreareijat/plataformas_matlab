@@ -1,3 +1,4 @@
+% definiciones de las funciones de transferencia
 G1 = tf(4,1);
 G2 = tf(1,[1 1]);
 G3 = tf([1 0],[1 0 2]);
