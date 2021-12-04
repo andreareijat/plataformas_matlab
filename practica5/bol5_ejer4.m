@@ -9,3 +9,4 @@ pzmap(G)
 
 %% mostramos el lugar de las raices
 rlocus(G) 
+
