@@ -32,4 +32,3 @@ G=tf(numz,denz,T);
 
 pzmap(G) % inestable ya que hay un polo complejo 
          % fuera del circulo unidad a la derecha del todo
-
